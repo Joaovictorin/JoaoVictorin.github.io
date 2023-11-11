@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  color: white; 
+  font-family: Arial, Helvetica, Sans-Serif;
+}
+
+  
+    <header>
+      
+        <ul>
+      <li>
+        <a href="index.html">sobre mim</a> 
+      </li>
+            <li>
+        <a href="contact.html">contato</a>
+      </li>
+            <li>
+        <a href="project.html">projetos</a>
+      </li>
+    </ul>
+    
+      <div class="center">  
+        <img src="./ia.jpg"></img>
+        </div> 
+img{
+  width: 400px;
+  height: 200px;
+}
+
+.comteiner {
+  width: 400px;
+  height: 200px;
+}
